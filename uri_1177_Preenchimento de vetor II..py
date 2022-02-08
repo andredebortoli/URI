@@ -1,7 +1,7 @@
 a = int(input())
 b = []
 
-for i in range(1001):
+for i in range(1000):
     j = 0
     while j < a:
         b.append(j)
